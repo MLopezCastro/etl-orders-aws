@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,product_id,product_name,quantity,unit_price,currency,status,total_amount
+1001,1/15/2025,501,78,Wireless Mouse,2,19.99,USD,shipped,39.98
+1002,1/16/2025,502,79,Gaming Keyboard,1,49.99,USD,pending,49.99
+1003,1/17/2025,503,80,USB-C Hub,3,29.99,USD,returned,89.97
