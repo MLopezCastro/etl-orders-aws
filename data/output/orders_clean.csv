@@ -1,4 +1,31 @@
 order_id,order_date,customer_id,product_id,product_name,quantity,unit_price,currency,status,total_amount
-1001,1/15/2025,501,78,Wireless Mouse,2,19.99,USD,shipped,39.98
-1002,1/16/2025,502,79,Gaming Keyboard,1,49.99,USD,pending,49.99
-1003,1/17/2025,503,80,USB-C Hub,3,29.99,USD,returned,89.97
+1001,2025-01-15,501,78,Wireless Mouse,2,19.99,USD,shipped,39.98
+1002,2025-01-16,502,79,Gaming Keyboard,1,49.99,USD,pending,49.99
+1003,2025-01-17,503,80,USB-C Hub,3,29.99,USD,returned,89.97
+1004,2025-01-18,504,82,4K Monitor,4,299.99,USD,returned,1199.96
+1005,2025-01-19,505,86,HDMI Cable,1,14.99,USD,shipped,14.99
+1006,2025-01-20,506,87,Mechanical Keyboard,4,109.99,USD,cancelled,439.96
+1007,2025-01-21,507,83,Laptop Stand,4,39.99,USD,pending,159.96
+1008,2025-01-22,508,81,Bluetooth Headphones,4,59.99,USD,returned,239.96
+1009,2025-01-23,509,85,Portable SSD,4,129.99,USD,pending,519.96
+1010,2025-01-24,510,87,Mechanical Keyboard,5,109.99,USD,pending,549.9499999999999
+1011,2025-01-25,511,86,HDMI Cable,1,14.99,USD,cancelled,14.99
+1012,2025-01-26,512,78,Wireless Mouse,1,19.99,USD,shipped,19.99
+1013,2025-01-27,513,84,Webcam,5,89.99,USD,pending,449.95
+1014,2025-01-28,514,86,HDMI Cable,2,14.99,USD,returned,29.98
+1015,2025-01-29,515,78,Wireless Mouse,5,19.99,USD,pending,99.94999999999999
+1016,2025-01-30,516,80,USB-C Hub,4,29.99,USD,pending,119.96
+1017,2025-01-31,517,84,Webcam,4,89.99,USD,cancelled,359.96
+1018,2025-02-01,518,81,Bluetooth Headphones,2,59.99,USD,shipped,119.98
+1019,2025-02-02,519,87,Mechanical Keyboard,5,109.99,USD,shipped,549.9499999999999
+1020,2025-02-03,520,87,Mechanical Keyboard,5,109.99,USD,shipped,549.9499999999999
+1021,2025-02-04,521,87,Mechanical Keyboard,1,109.99,USD,cancelled,109.99
+1022,2025-02-05,522,85,Portable SSD,3,129.99,USD,cancelled,389.97
+1023,2025-02-06,523,80,USB-C Hub,1,29.99,USD,shipped,29.99
+1024,2025-02-07,524,85,Portable SSD,3,129.99,USD,cancelled,389.97
+1025,2025-02-08,525,85,Portable SSD,5,129.99,USD,shipped,649.95
+1026,2025-02-09,526,81,Bluetooth Headphones,3,59.99,USD,pending,179.97
+1027,2025-02-10,527,86,HDMI Cable,5,14.99,USD,shipped,74.95
+1028,2025-02-11,528,83,Laptop Stand,2,39.99,USD,shipped,79.98
+1029,2025-02-12,529,85,Portable SSD,1,129.99,USD,pending,129.99
+1030,2025-02-13,530,85,Portable SSD,5,129.99,USD,returned,649.95

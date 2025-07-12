@@ -1,4 +1,31 @@
 order_id,order_date,customer_id,product_id,product_name,quantity,unit_price,currency,status
-1001,2025-01-15,501,78,Wireless Mouse,2,19.99,USD,shipped
-1002,2025-01-16,502,79,Gaming Keyboard,1,49.99,USD,pending
-1003,2025-01-17,503,80,USB-C Hub,3,29.99,USD,returned
+1001,1/15/2025,501,78,Wireless Mouse,2,19.99,USD,shipped
+1002,1/16/2025,502,79,Gaming Keyboard,1,49.99,USD,pending
+1003,1/17/2025,503,80,USB-C Hub,3,29.99,USD,returned
+1004,1/18/2025,504,82,4K Monitor,4,299.99,USD,returned
+1005,1/19/2025,505,86,HDMI Cable,1,14.99,USD,shipped
+1006,1/20/2025,506,87,Mechanical Keyboard,4,109.99,USD,cancelled
+1007,1/21/2025,507,83,Laptop Stand,4,39.99,USD,pending
+1008,1/22/2025,508,81,Bluetooth Headphones,4,59.99,USD,returned
+1009,1/23/2025,509,85,Portable SSD,4,129.99,USD,pending
+1010,1/24/2025,510,87,Mechanical Keyboard,5,109.99,USD,pending
+1011,1/25/2025,511,86,HDMI Cable,1,14.99,USD,cancelled
+1012,1/26/2025,512,78,Wireless Mouse,1,19.99,USD,shipped
+1013,1/27/2025,513,84,Webcam,5,89.99,USD,pending
+1014,1/28/2025,514,86,HDMI Cable,2,14.99,USD,returned
+1015,1/29/2025,515,78,Wireless Mouse,5,19.99,USD,pending
+1016,1/30/2025,516,80,USB-C Hub,4,29.99,USD,pending
+1017,1/31/2025,517,84,Webcam,4,89.99,USD,cancelled
+1018,2/1/2025,518,81,Bluetooth Headphones,2,59.99,USD,shipped
+1019,2/2/2025,519,87,Mechanical Keyboard,5,109.99,USD,shipped
+1020,2/3/2025,520,87,Mechanical Keyboard,5,109.99,USD,shipped
+1021,2/4/2025,521,87,Mechanical Keyboard,1,109.99,USD,cancelled
+1022,2/5/2025,522,85,Portable SSD,3,129.99,USD,cancelled
+1023,2/6/2025,523,80,USB-C Hub,1,29.99,USD,shipped
+1024,2/7/2025,524,85,Portable SSD,3,129.99,USD,cancelled
+1025,2/8/2025,525,85,Portable SSD,5,129.99,USD,shipped
+1026,2/9/2025,526,81,Bluetooth Headphones,3,59.99,USD,pending
+1027,2/10/2025,527,86,HDMI Cable,5,14.99,USD,shipped
+1028,2/11/2025,528,83,Laptop Stand,2,39.99,USD,shipped
+1029,2/12/2025,529,85,Portable SSD,1,129.99,USD,pending
+1030,2/13/2025,530,85,Portable SSD,5,129.99,USD,returned
